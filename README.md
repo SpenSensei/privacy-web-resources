@@ -9,7 +9,7 @@ A curated list of useful tools and guides related to online privacy, security an
 
 ## VPN & Privacy
 - Guide to choosing a free VPN (updated):  
-  https://vpnreviewrank.com/best-free-vpn/
+  <a href="https://vpnreviewrank.com/best-free-vpn/">https://vpnreviewrank.com/best-free-vpn/</a>
 
 ## Web Tools
 - GitHub – version control & collaboration
